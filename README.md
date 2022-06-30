@@ -6,6 +6,8 @@ A total of 181777 events were obtained.
 
 The columns `Catalog`,`Contributor`,`ContributorID`,`MagAuthor` were removed from the catalogue since they didn't contain any data.
 
+Click the following file [catalogue_manipulation.ipynb](https://github.com/Iron486/Italian_Earthquake_Catalogue_1985_2020/blob/main/catalogue_manipulation.ipynb) to take a look at the preprocessing steps.
+
 Star the repository if you found the dataset useful and inspiring :).
 
 ### **Inspiration** 
@@ -14,7 +16,9 @@ It is possible to perform an exploratory data analysis of the catalogue, analyzi
 
 Furthermore, it's possible to perform more advanced analysis derived from statistical seismology, such as analyzing the number of events for each bin magnitude in time and space, analyzing multivariate plots or visualizing the type of magnitude over time.
 
-Click the following file [catalogue_manipulation.ipynb](https://github.com/Iron486/Italian_Earthquake_Catalogue_1985_2020/blob/main/catalogue_manipulation.ipynb) to take a look at the preprocessing steps.
+This notebook [italian-earthquake-catalogue-eda-and-plots.ipynb](https://github.com/Iron486/Italian_Earthquake_Catalogue_1985_2020/blob/main/italian-earthquake-catalogue-eda-and-plots.ipynb) is an example of what can be done. 
+
+In [THIS](https://github.com/Iron486/Bachelor_Thesis) repository there are instead more complex notebooks to perform more complex analysis.
 
 ### **License**
 
