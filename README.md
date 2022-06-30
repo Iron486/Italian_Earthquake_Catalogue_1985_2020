@@ -6,7 +6,7 @@ A total of 181777 events were obtained.
 
 The columns `Catalog`,`Contributor`,`ContributorID`,`MagAuthor` were removed from the catalogue since they didn't contain any data.
 
-Upvote if you found the dataset useful and inspiring :).
+Star the repository if you found the dataset useful and inspiring :).
 
 ### **Inspiration** 
 
