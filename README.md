@@ -18,7 +18,7 @@ Furthermore, it's possible to perform more advanced analysis derived from statis
 
 This notebook [italian-earthquake-catalogue-eda-and-plots.ipynb](https://github.com/Iron486/Italian_Earthquake_Catalogue_1985_2020/blob/main/italian-earthquake-catalogue-eda-and-plots.ipynb) is an example of what can be done. 
 
-In [THIS](https://github.com/Iron486/Bachelor_Thesis) repository there are instead more complex notebooks to perform more complex analysis.
+In [THIS](https://github.com/Iron486/Bachelor_Thesis) repository there are instead more complex notebooks to perform more accurate analysis.
 
 ### **License**
 
